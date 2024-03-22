@@ -1,0 +1,17 @@
+/* .change{
+    outline:none;
+    border: solid 2px pink;
+}
+.error{
+    border: solid 2px green;
+} */
+
+
+span  .span{
+    display: none;
+   
+}
+span{
+    display: inline;
+    color: red;
+}

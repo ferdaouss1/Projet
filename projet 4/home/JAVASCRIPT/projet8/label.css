@@ -1,0 +1,9 @@
+body{
+    
+    height: 300px;
+}
+div{
+    border: solid 2px violet;
+    padding: 50%;
+    height: 100px;
+}
